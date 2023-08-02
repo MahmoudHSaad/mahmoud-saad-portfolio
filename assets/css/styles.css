@@ -12401,3 +12401,72 @@ html {
         left: -2vw;
     }
 }
+
+@media screen and (max-width:450px) {
+    .catagor {
+        font-size: 10px !important;
+    }
+    .headerSmall {
+        padding: 0px 10px !important;
+    }
+    .HomeheaderSmall {
+        padding-top: 0px !important;
+        margin: 0px 0px 10px !important;
+    }
+    .welcome {
+        font-size: 18px !important;
+        padding-top: 0 !important;
+        font-weight: bolder;
+    }
+    .Aboutma {
+        padding-top: 10px !important
+    }
+    .mtzero {
+        margin-top: 15px !important;
+        font-size: 13px;
+    }
+    .ptzero {
+        padding-top: 0 !important;
+    }
+    .pazero {
+        padding: 0 !important;
+    }
+    .downloadBTN {
+        font-size: 10px !important;
+        padding: 5px 7px 5px 0px !important;
+        padding-inline-end: 10px !important;
+    }
+    .titleName {
+        font-size: 20px !important;
+    }
+    .card-body {
+        padding: 12px !important;
+    }
+    .descriptionOne {
+        font-size: 12px !important;
+        margin-inline-start: 5px !important;
+    }
+    .margbZero {
+        margin-bottom: 12px !important;
+    }
+    .iconss {
+        font-size: 16px !important;
+    }
+    .skillsName {
+        font-size: 18px !important;
+    }
+    .iconbg {
+        margin: 0 !important;
+        height: 2.2rem !important;
+        width: 2rem !important;
+    }
+    .together {
+        font-size: 20px !important;
+    }
+    .conecontiner {
+        padding: 10px !important;
+    }
+    .conecontiner1 {
+        padding: 12px !important;
+    }
+}
